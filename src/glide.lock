@@ -1,27 +1,27 @@
 hash: 4468b7b01f8cb3c42dd845725fc188804538b5e11ba5d06405f7c5937b5e9fae
-updated: 2020-04-12T12:47:15.454261-05:00
+updated: 2020-04-12T13:11:32.01486-05:00
 imports:
 - name: github.com/davecgh/go-spew
   version: 8991bc29aa16c548c550c7ff78260e27b9ab7c73
   subpackages:
   - spew
 - name: github.com/dvasilen/razee-rrs3
-  version: 0bc875f3bd0328fcf46b4746ac0ed4ce632238ba
+  version: 86bc22d70738d42ffe7120e7bf0c38e703541953
   subpackages:
   - pkg/apis/razee/v1alpha2
   - pkg/client/clientset/versioned/scheme
   - pkg/client/clientset/versioned/typed/razee/v1alpha2
 - name: github.com/gogo/protobuf
-  version: 5628607bb4c51c3157aacc3a50f0ab707582b805
+  version: 65acae22fc9d1fe290b33faa2bd64cdc20a463a0
   subpackages:
   - proto
   - sortkeys
 - name: github.com/golang/protobuf
-  version: d23c5127dc24889085f8ccea5c9d560a57a879d8
+  version: 6c65a5562fc06764971b7c5d05c76c75e84bdbf7
   subpackages:
   - proto
 - name: github.com/google/gofuzz
-  version: db92cf7ae75e4a7a28abc005addab2b394362888
+  version: f140a6486e521aad38f5917de355cbf147cc0496
 - name: github.com/json-iterator/go
   version: 03217c3e97663914aec3faafde50d081f197a0a2
 - name: github.com/modern-go/concurrent
@@ -33,7 +33,7 @@ imports:
   subpackages:
   - ssh/terminal
 - name: golang.org/x/net
-  version: d3edc9973b7eb1fb302b0ff2c62357091cea9a30
+  version: 13f9640d40b9cc418fb53703dfbd177679788ceb
   subpackages:
   - context
   - context/ctxhttp
@@ -74,7 +74,7 @@ imports:
 - name: gopkg.in/inf.v0
   version: d2d2541c53f18d2a059457998ce2876cc8e67cbf
 - name: gopkg.in/yaml.v2
-  version: 53403b58ad1b561927d19068c655246f2db79d48
+  version: f221b8435cfb71e54062f6c6e99e9ade30b124d5
 - name: k8s.io/apimachinery
   version: 79c2a76c473a20cdc4ce59cae4b72529b5d9d16b
   subpackages:
@@ -135,5 +135,5 @@ imports:
   subpackages:
   - integer
 - name: sigs.k8s.io/yaml
-  version: 9fc95527decd95bb9d28cc2eab08179b2d0f6971
+  version: fd68e9863619f6ec2fdd8625fe1f02e7c877e480
 testImports: []
