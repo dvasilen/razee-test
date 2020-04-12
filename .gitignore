@@ -1,0 +1,6 @@
+.project
+.settings
+pkg
+/bin
+/src/wdpx-admin/deleteme*
+vendor

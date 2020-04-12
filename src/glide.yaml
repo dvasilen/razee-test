@@ -1,0 +1,5 @@
+package: github.com/dvasilen/razee-test
+import:
+- package: k8s.io/client-go
+  version: v0.17.0
+  
